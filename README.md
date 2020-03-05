@@ -1,15 +1,15 @@
 Social Network Analysis as a Tool for Data Analysis and Visualization in Information Behaviour and Interactive Information Retrieval Research
 ===============
 
-### CHIIR 2020
+### @ CHIIR 2020
 
-by Florian Meier (Aalborg University, Copenhagen,:dk:)
+by Florian Meier (Aalborg University, Copenhagen)
 
 ------------
 
 :spiral_calendar: March 14, 2020  
-:alarm_clock:     01:30 PM – 05:00 PM 
-:hotel:           Harbour Centre, 555 W Hastings St
+:alarm_clock:     01:30 PM – 05:00 PM <br/>
+:hotel:           Harbour Centre, 555 W Hastings St <br/>
 :writing_hand:    [Tutorial Website](https://github.com/meier-flo/chiir2020snatut)  
 :earth_americas:  [CHIIR 2020](https://sigir.org/chiir2020/)  
 
@@ -34,9 +34,10 @@ We will be working with the most recent version of the open-source SNA software 
 Some of you (especially Windows users) might encounter a `Cannot find Java 1.8 or higher` error when trying to run Gephi for the first time. To troubleshoot this problem, three things must be in place:
 1. JAVA must be installed on your computer.
 2. The PATH system variable for JAVA must be set. [Follow the instructions here](https://www.java.com/en/download/help/path.xml).
-3. The `gephi.conf` file must contain the JAVA path. [Follow the instructions here](https://www.youtube.com/watch?v=iWQWjx6Ot1E). [In case you need more guidance, this discussion can be helpful.](https://github.com/gephi/gephi/issues/1787)
+3. The `gephi.conf` file must contain the JAVA path. [Follow the instructions here](https://www.youtube.com/watch?v=iWQWjx6Ot1E). In case you need more guidance, [this discussion can be helpful.](https://github.com/gephi/gephi/issues/1787)
 
-After you successfully downloaded and installed Gephi, I recommend you to follow along this [Simple Gephi Project from A to Z](https://seinecle.github.io/gephi-tutorials/generated-html/simple-project-from-a-to-z-en.html). You can also watch and follow along with the updated [video tutorial on Gephi](https://www.youtube.com/watch?v=371n3Ye9vVo) by Dr Jen Golbeck. 
+After you successfully downloaded and installed Gephi, I recommend to follow along this [Simple Gephi Project from A to Z](https://seinecle.github.io/gephi-tutorials/generated-html/simple-project-from-a-to-z-en.html). 
+You can also watch and follow along with the updated [video tutorial on Gephi](https://www.youtube.com/watch?v=371n3Ye9vVo) by Dr Jen Golbeck. 
 
 
 ## Slides and Material
